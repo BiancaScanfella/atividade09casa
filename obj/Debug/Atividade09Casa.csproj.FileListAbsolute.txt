@@ -1,0 +1,7 @@
+C:\Users\bianca.ascanfella\source\repos\Atividade09Casa\Atividade09Casa\bin\Debug\Atividade09Casa.exe.config
+C:\Users\bianca.ascanfella\source\repos\Atividade09Casa\Atividade09Casa\bin\Debug\Atividade09Casa.exe
+C:\Users\bianca.ascanfella\source\repos\Atividade09Casa\Atividade09Casa\bin\Debug\Atividade09Casa.pdb
+C:\Users\bianca.ascanfella\source\repos\Atividade09Casa\Atividade09Casa\obj\Debug\Atividade09Casa.csproj.AssemblyReference.cache
+C:\Users\bianca.ascanfella\source\repos\Atividade09Casa\Atividade09Casa\obj\Debug\Atividade09Casa.csproj.CoreCompileInputs.cache
+C:\Users\bianca.ascanfella\source\repos\Atividade09Casa\Atividade09Casa\obj\Debug\Atividade09Casa.exe
+C:\Users\bianca.ascanfella\source\repos\Atividade09Casa\Atividade09Casa\obj\Debug\Atividade09Casa.pdb
